@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @B0mb3l
 - 👀 I’m 17 
 - 🌱 I’m currently learning C# (Unity)
-- 💞️ I’m looking to collaborate on ...
 - 😎🤙 Sup?
